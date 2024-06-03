@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EMS-Data-API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea3f3fbdf7195a511c0eb420b1234d247742a402")]
 [assembly: System.Reflection.AssemblyProductAttribute("EMS-Data-API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EMS-Data-API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
