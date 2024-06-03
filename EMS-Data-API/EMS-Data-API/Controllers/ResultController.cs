@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace EMS_Data_API.Controllers
 {
@@ -7,5 +8,10 @@ namespace EMS_Data_API.Controllers
     [ApiController]
     public class ResultController : ControllerBase
     {
+        [HttpGet]
+        public string Index()
+        {
+            return "This is first git test";
+        }
     }
 }
