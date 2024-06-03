@@ -1,0 +1,258 @@
+[
+  {
+    "ContainingType": "EMS_Data_API.Controllers.BoothController",
+    "Method": "DeleteBooth",
+    "RelativePath": "api/booth/DeleteBooth",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pollId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "vsId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "year",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMS_Data_API.Controllers.BoothController",
+    "Method": "GetBoothById",
+    "RelativePath": "api/booth/GetBoothDataByID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pollId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "vsId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "year",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMS_Data_API.Controllers.BoothController",
+    "Method": "GetBoothList",
+    "RelativePath": "api/booth/GetBoothList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMS_Data_API.Controllers.BoothController",
+    "Method": "AddBooth",
+    "RelativePath": "api/booth/insertBooth",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EMS_Data_API.Models.DTO.BoothMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMS_Data_API.Controllers.BoothController",
+    "Method": "UpdateBooth",
+    "RelativePath": "api/booth/updateBooth",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pollId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "vsId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "year",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "model",
+        "Type": "EMS_Data_API.Models.DTO.BoothMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMS_Data_API.Controllers.UsersController",
+    "Method": "AssignRole",
+    "RelativePath": "api/users/AssignRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registrationRequestDto",
+        "Type": "EMS_Data_API.Models.DTO.RegistrationRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMS_Data_API.Controllers.UsersController",
+    "Method": "Login",
+    "RelativePath": "api/users/loign",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EMS_Data_API.Models.DTO.LoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMS_Data_API.Controllers.UsersController",
+    "Method": "RegisterUser",
+    "RelativePath": "api/users/registerUsers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EMS_Data_API.Models.DTO.RegistrationRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMS_Data_API.Controllers.VidhansabhaController",
+    "Method": "DeleteVidhansabha",
+    "RelativePath": "api/vidhansabha/DeleteVidhansabha",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vsId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMS_Data_API.Controllers.VidhansabhaController",
+    "Method": "GetVidhansabhaById",
+    "RelativePath": "api/vidhansabha/GetVidhansabhaDataByID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vsId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMS_Data_API.Controllers.VidhansabhaController",
+    "Method": "GetVidhansabhaList",
+    "RelativePath": "api/vidhansabha/GetVidhansabhaList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMS_Data_API.Controllers.VidhansabhaController",
+    "Method": "AddVidhansabha",
+    "RelativePath": "api/vidhansabha/saveVidhansabha",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EMS_Data_API.Models.DTO.VidhansabhaMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMS_Data_API.Controllers.VidhansabhaController",
+    "Method": "UpdateVidhansabha",
+    "RelativePath": "api/vidhansabha/updateVidhansabha",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vsId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "model",
+        "Type": "EMS_Data_API.Models.DTO.VidhansabhaMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EMS_Data_API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[EMS_Data_API.WeatherForecast, EMS-Data-API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

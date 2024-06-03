@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharp-Programs-Example\\EMS-Data-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|d:\\csharp-programs-example\\ems-data-api\\ems-data-api\\services\\boothmasterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|solutionrelative:ems-data-api\\services\\boothmasterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|D:\\CSharp-Programs-Example\\EMS-Data-API\\ems-data-api\\controllers\\boothcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|solutionrelative:ems-data-api\\controllers\\boothcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|D:\\CSharp-Programs-Example\\EMS-Data-API\\ems-data-api\\repository\\iboothmasterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|solutionrelative:ems-data-api\\repository\\iboothmasterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|D:\\CSharp-Programs-Example\\EMS-Data-API\\ems-data-api\\models\\dto\\resultresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|solutionrelative:ems-data-api\\models\\dto\\resultresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|D:\\CSharp-Programs-Example\\EMS-Data-API\\ems-data-api\\models\\domainmodels\\boothmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|solutionrelative:ems-data-api\\models\\domainmodels\\boothmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|D:\\CSharp-Programs-Example\\EMS-Data-API\\ems-data-api\\controllers\\vidhansabhacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|solutionrelative:ems-data-api\\controllers\\vidhansabhacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|D:\\CSharp-Programs-Example\\EMS-Data-API\\ems-data-api\\repository\\ividhansabhamasterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|solutionrelative:ems-data-api\\repository\\ividhansabhamasterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|D:\\CSharp-Programs-Example\\EMS-Data-API\\ems-data-api\\repository\\ijwttokengeneratorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|solutionrelative:ems-data-api\\repository\\ijwttokengeneratorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|D:\\CSharp-Programs-Example\\EMS-Data-API\\ems-data-api\\projectutility\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|solutionrelative:ems-data-api\\projectutility\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|D:\\CSharp-Programs-Example\\EMS-Data-API\\ems-data-api\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|solutionrelative:ems-data-api\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|D:\\CSharp-Programs-Example\\EMS-Data-API\\ems-data-api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|solutionrelative:ems-data-api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|D:\\CSharp-Programs-Example\\EMS-Data-API\\ems-data-api\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|solutionrelative:ems-data-api\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|D:\\CSharp-Programs-Example\\EMS-Data-API\\ems-data-api\\models\\dto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|solutionrelative:ems-data-api\\models\\dto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|D:\\CSharp-Programs-Example\\EMS-Data-API\\ems-data-api\\models\\dto\\loginresposedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|solutionrelative:ems-data-api\\models\\dto\\loginresposedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|D:\\CSharp-Programs-Example\\EMS-Data-API\\ems-data-api\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C11AAC-100C-4A88-AC21-68C36665A403}|EMS-Data-API\\EMS-Data-API.csproj|solutionrelative:ems-data-api\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 301,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BoothController.cs",
+              "DocumentMoniker": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Controllers\\BoothController.cs",
+              "RelativeDocumentMoniker": "EMS-Data-API\\Controllers\\BoothController.cs",
+              "ToolTip": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Controllers\\BoothController.cs",
+              "RelativeToolTip": "EMS-Data-API\\Controllers\\BoothController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwDoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:20:25.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoothMasterServices.cs",
+              "DocumentMoniker": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Services\\BoothMasterServices.cs",
+              "RelativeDocumentMoniker": "EMS-Data-API\\Services\\BoothMasterServices.cs",
+              "ToolTip": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Services\\BoothMasterServices.cs",
+              "RelativeToolTip": "EMS-Data-API\\Services\\BoothMasterServices.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:22:35.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBoothMasterRepo.cs",
+              "DocumentMoniker": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Repository\\IBoothMasterRepo.cs",
+              "RelativeDocumentMoniker": "EMS-Data-API\\Repository\\IBoothMasterRepo.cs",
+              "ToolTip": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Repository\\IBoothMasterRepo.cs",
+              "RelativeToolTip": "EMS-Data-API\\Repository\\IBoothMasterRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:20:07.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultResponseDTO.cs",
+              "DocumentMoniker": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Models\\DTO\\ResultResponseDTO.cs",
+              "RelativeDocumentMoniker": "EMS-Data-API\\Models\\DTO\\ResultResponseDTO.cs",
+              "ToolTip": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Models\\DTO\\ResultResponseDTO.cs",
+              "RelativeToolTip": "EMS-Data-API\\Models\\DTO\\ResultResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:26:37.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VidhansabhaController.cs",
+              "DocumentMoniker": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Controllers\\VidhansabhaController.cs",
+              "RelativeDocumentMoniker": "EMS-Data-API\\Controllers\\VidhansabhaController.cs",
+              "ToolTip": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Controllers\\VidhansabhaController.cs",
+              "RelativeToolTip": "EMS-Data-API\\Controllers\\VidhansabhaController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:49:02.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BoothMaster.cs",
+              "DocumentMoniker": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Models\\DomainModels\\BoothMaster.cs",
+              "RelativeDocumentMoniker": "EMS-Data-API\\Models\\DomainModels\\BoothMaster.cs",
+              "ToolTip": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Models\\DomainModels\\BoothMaster.cs",
+              "RelativeToolTip": "EMS-Data-API\\Models\\DomainModels\\BoothMaster.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:15:45.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IVidhansabhaMasterRepo.cs",
+              "DocumentMoniker": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Repository\\IVidhansabhaMasterRepo.cs",
+              "RelativeDocumentMoniker": "EMS-Data-API\\Repository\\IVidhansabhaMasterRepo.cs",
+              "ToolTip": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Repository\\IVidhansabhaMasterRepo.cs",
+              "RelativeToolTip": "EMS-Data-API\\Repository\\IVidhansabhaMasterRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:29:50.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IJwtTokenGeneratorRepo.cs",
+              "DocumentMoniker": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Repository\\IJwtTokenGeneratorRepo.cs",
+              "RelativeDocumentMoniker": "EMS-Data-API\\Repository\\IJwtTokenGeneratorRepo.cs",
+              "ToolTip": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Repository\\IJwtTokenGeneratorRepo.cs",
+              "RelativeToolTip": "EMS-Data-API\\Repository\\IJwtTokenGeneratorRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:39:25.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\ProjectUtility\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "EMS-Data-API\\ProjectUtility\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\ProjectUtility\\AutoMapperProfile.cs",
+              "RelativeToolTip": "EMS-Data-API\\ProjectUtility\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:56:18.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Models\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "EMS-Data-API\\Models\\JwtOptions.cs",
+              "ToolTip": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Models\\JwtOptions.cs",
+              "RelativeToolTip": "EMS-Data-API\\Models\\JwtOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T17:22:22.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Models\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "EMS-Data-API\\Models\\DTO\\UserDto.cs",
+              "ToolTip": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Models\\DTO\\UserDto.cs",
+              "RelativeToolTip": "EMS-Data-API\\Models\\DTO\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:21:20.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegistrationRequestDto.cs",
+              "DocumentMoniker": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Models\\DTO\\RegistrationRequestDto.cs",
+              "RelativeDocumentMoniker": "EMS-Data-API\\Models\\DTO\\RegistrationRequestDto.cs",
+              "ToolTip": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Models\\DTO\\RegistrationRequestDto.cs",
+              "RelativeToolTip": "EMS-Data-API\\Models\\DTO\\RegistrationRequestDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:24:46.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "EMS-Data-API\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "EMS-Data-API\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:12:30.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginResposeDto.cs",
+              "DocumentMoniker": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Models\\DTO\\LoginResposeDto.cs",
+              "RelativeDocumentMoniker": "EMS-Data-API\\Models\\DTO\\LoginResposeDto.cs",
+              "ToolTip": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Models\\DTO\\LoginResposeDto.cs",
+              "RelativeToolTip": "EMS-Data-API\\Models\\DTO\\LoginResposeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:21:01.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Models\\DTO\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "EMS-Data-API\\Models\\DTO\\LoginRequestDto.cs",
+              "ToolTip": "D:\\CSharp-Programs-Example\\EMS-Data-API\\EMS-Data-API\\Models\\DTO\\LoginRequestDto.cs",
+              "RelativeToolTip": "EMS-Data-API\\Models\\DTO\\LoginRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:18:19.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
